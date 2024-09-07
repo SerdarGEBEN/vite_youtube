@@ -39,5 +39,8 @@ npx tailwindcss init -p
 - Çalışma ortamı için gerekli ama projeyi githuba gönderdiğimiz zaman herkes tarafından erişilebilir olmasını istemediğimiz değişkenleri ortam değişkenleri olarak tanımlarız.
 
 - Örn:API_KEY admin giriş bilgileri, yayılmasını istemediğimiz herhangi bir değişken.# vite_youtube
-# vite_youtube
-# vite_youtube
+
+# Ekran Kaydı
+![youtube-video-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/44da65be-7675-4c14-ac6d-b67aa3f8b4f8)
+
+
